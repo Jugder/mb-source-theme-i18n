@@ -1,6 +1,8 @@
-# Source
+# MB Source Theme i18n
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/). This is a fork of the development version of Source with some customization. Especially the theme was made translateable.
+The default theme for [Ghost](http://github.com/tryghost/ghost/). 
+This is a fork of the development version of Source with some customization. 
+Especially the theme was made translateable.
 
 If you're just looking to download the original release, head over to the [releases](https://github.com/TryGhost/Source/releases) page.
 
