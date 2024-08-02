@@ -2,8 +2,8 @@ name: Deploy Theme
 on:
   push:
     branches:
-      - master
       - main
+      - dev
 jobs:
   deploy:
     runs-on: ubuntu-latest
