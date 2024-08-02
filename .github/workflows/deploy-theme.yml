@@ -2,7 +2,7 @@ name: Deploy Theme
 on:
   push:
     branches:
-      - main
+      - main-i18n
       - dev
 jobs:
   deploy:
